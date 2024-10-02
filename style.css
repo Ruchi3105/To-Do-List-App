@@ -38,7 +38,8 @@
     align-items: center;
 }
 
-.to-do-list h2 svg {
+.to-do-list h2 img {
+    height: 20px;
     margin-left: 8px;
 }
 
